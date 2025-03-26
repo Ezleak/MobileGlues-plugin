@@ -1,4 +1,4 @@
-[submodule "MobileGluvk"]
-	path = MobileGluvk
+[submodule "MobileGlues"]
+	path = MobileGlues
 	url = https://github.com/MobileGL-Dev/MobileGL
 	branch = dev-vk
